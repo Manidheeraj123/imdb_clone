@@ -42,10 +42,12 @@ The IMDb Clone is organized into three main JavaScript files:
 
 To run the IMDb Clone:
 
-1. Include the provided JavaScript files in your HTML pages.
+1. Include the provided JavaScript files in  HTML pages.
 2. Obtain an OMDB API key and update it in the files.
 3. Customize HTML pages to include necessary elements.
 4. Run the application and enjoy the IMDb-like experience of searching and managing favorite movies.
+
+### Images of website
 
 
 ### Acknowledgments
