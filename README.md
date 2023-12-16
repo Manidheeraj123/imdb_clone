@@ -51,8 +51,5 @@ To run the IMDb Clone:
 ![images](https://github.com/Manidheeraj123/imdb_clone/assets/100212243/38c91402-4639-45ea-b3cd-f6b5995412ee)
 
 
-### Acknowledgments
-
-This project is inspired by the functionality provided by IMDb and serves as a simplified emulation for educational and practice purposes. Special thanks to the OMDB API for providing movie data.
 
 
