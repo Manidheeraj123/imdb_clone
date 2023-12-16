@@ -47,7 +47,8 @@ To run the IMDb Clone:
 3. Customize HTML pages to include necessary elements.
 4. Run the application and enjoy the IMDb-like experience of searching and managing favorite movies.
 
-### Images of website
+### Image of the website
+![images](https://github.com/Manidheeraj123/imdb_clone/assets/100212243/38c91402-4639-45ea-b3cd-f6b5995412ee)
 
 
 ### Acknowledgments
